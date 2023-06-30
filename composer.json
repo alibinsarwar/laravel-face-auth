@@ -16,9 +16,7 @@
         }
     ],
     "require": {
-        "php": ">=8.2",
-        "intervention/image": "^2.3",
-        "mockery/mockery": "^0.9.9"
+        "php": ">=8.2"
     },
     "require-dev": {
         "orchestra/testbench": "^3.4",
